@@ -1,0 +1,6 @@
+* git init
+* git commit 
+* git checkout -b
+* git checkout 
+* git merge --no-ff -e -m "" - 
+* git branch -d
